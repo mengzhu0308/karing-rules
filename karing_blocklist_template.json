@@ -1,0 +1,12 @@
+{
+  "version": 3,
+  "rules": [
+    {
+      "domain_suffix": [
+        "example-bad-site.com",
+        "bad-forum.example",
+        "bad-video.example"
+      ]
+    }
+  ]
+}
