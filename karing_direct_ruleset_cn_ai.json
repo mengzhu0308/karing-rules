@@ -74,6 +74,12 @@
         "mirrors.ustc.edu.cn",
         "mirrors.aliyun.com"
       ]
+    },
+    {
+      "domain_suffix": [
+        "feishu.cn",
+        "dingtalk.com"
+      ]
     }
   ]
 }
