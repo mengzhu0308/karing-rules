@@ -73,7 +73,8 @@
         "repo.anaconda.cloud",
         "mirrors.tuna.tsinghua.edu.cn",
         "mirrors.ustc.edu.cn",
-        "mirrors.aliyun.com"
+        "mirrors.aliyun.com",
+        "mirrors.huaweicloud.com"
       ]
     },
     {
