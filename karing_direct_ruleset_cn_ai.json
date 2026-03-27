@@ -83,6 +83,14 @@
         "dingtalk.com",
         "todesk.com"
       ]
+    },
+    {
+      "domain_suffix": [
+        "spaces.ac.cn",
+        "blognas.hwb0307.com",
+	      "zhihu.com",
+	      "csdn.net"
+      ]
     }
   ]
 }
