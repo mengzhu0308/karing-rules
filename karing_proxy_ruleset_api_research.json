@@ -42,9 +42,9 @@
       ]
     },
     {
-      "domain_suffix": [
+       "domain_suffix": [
         "repo.anaconda.com",
-	      "repo.anaconda.cloud"
+	    "repo.anaconda.cloud"
       ]
     }
   ]
