@@ -40,6 +40,12 @@
       "domain_suffix": [
         "scholar.google.com"
       ]
+    },
+    {
+      "domain_suffix": [
+        "repo.anaconda.com",
+	      "repo.anaconda.cloud"
+      ]
     }
   ]
 }
