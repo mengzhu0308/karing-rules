@@ -74,7 +74,8 @@
         "mirrors.tuna.tsinghua.edu.cn",
         "mirrors.ustc.edu.cn",
         "mirrors.aliyun.com",
-        "mirrors.huaweicloud.com"
+        "mirrors.huaweicloud.com",
+		"pytorch.org"
       ]
     },
     {
@@ -85,11 +86,11 @@
       ]
     },
     {
-      "domain_suffix": [
-        "spaces.ac.cn",
-        "blognas.hwb0307.com",
-	      "zhihu.com",
-	      "csdn.net"
+       "domain_suffix": [
+         "spaces.ac.cn",
+         "blognas.hwb0307.com",
+	     "zhihu.com",
+	     "csdn.net"
       ]
     }
   ]
