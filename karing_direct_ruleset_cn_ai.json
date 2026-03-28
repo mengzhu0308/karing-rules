@@ -1,0 +1,62 @@
+{
+  "version": 3,
+  "rules": [
+    {
+      "domain_suffix": [
+        "minimaxi.com",
+        "bigmodel.cn",
+        "deepseek.com",
+        "moonshot.cn",
+        "huaweicloud.com",
+        "aliyun.com",
+        "volcengine.com",
+        "baidu.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "acm.org",
+        "dl.acm.org",
+        "ieee.org",
+        "ieeexplore.ieee.org",
+        "springer.com",
+        "link.springer.com",
+        "sciencedirect.com",
+        "nature.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "bilibili.com",
+        "iqiyi.com",
+        "qiyi.com",
+        "youku.com",
+        "ykimg.com",
+        "v.qq.com",
+        "video.qq.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "mirrors.tuna.tsinghua.edu.cn",
+        "mirrors.ustc.edu.cn",
+        "mirrors.aliyun.com",
+	"mirrors.huaweicloud.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "feishu.cn",
+        "dingtalk.com",
+	"todesk.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "spaces.ac.cn",
+	"zhihu.com",
+	"csdn.net"
+      ]
+    }
+  ]
+}

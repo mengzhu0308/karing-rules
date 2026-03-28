@@ -1,0 +1,100 @@
+{
+  "version": 3,
+  "rules": [
+    {
+      "domain_suffix": [
+        "claude.ai",
+        "anthropic.com",
+        "openai.com",
+        "chatgpt.com",
+        "openrouter.ai",
+        "google.com",
+        "googleapis.com",
+        "x.dogenet.win",
+        "packyapi.com",
+        "packycode.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "github.com",
+        "githubusercontent.com",
+        "githubassets.com",
+        "raw.githubusercontent.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "docker.io",
+        "registry-1.docker.io",
+        "auth.docker.io",
+        "hub.docker.com",
+        "production.cloudflare.docker.com",
+        "download.docker.com",
+        "ghcr.io",
+        "pkg-containers.githubusercontent.com",
+        "docker.pkg.github.com",
+        "quay.io"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "huggingface.co",
+        "hf.co",
+        "cdn-lfs.huggingface.co"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "scholar.google.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "repo.anaconda.com",
+	"repo.anaconda.cloud",
+	"pytorch.org"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "tencent.com",
+        "arxiv.org",
+        "openreview.net",
+        "dblp.org",
+        "elsevier.com",
+        "usenix.org",
+        "aclanthology.org",
+        "jmlr.org",
+        "proceedings.mlr.press",
+        "openaccess.thecvf.com",
+        "cv-foundation.org",
+        "neurips.cc",
+        "aaai.org",
+        "ijcai.org",
+        "semanticscholar.org",
+        "science.org",
+        "archive.ubuntu.com",
+        "security.ubuntu.com",
+        "mirrors.ubuntu.com",
+        "ports.ubuntu.com",
+        "launchpad.net",
+        "npmjs.org",
+        "registry.npmjs.org",
+        "pypi.org",
+        "files.pythonhosted.org",
+        "pythonhosted.org",
+        "conda.anaconda.org",
+        "anaconda.org",
+        "blognas.hwb0307.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "bilivideo.com",
+        "hdslb.com",
+        "gtimg.com"
+      ]
+    }
+  ]
+}
