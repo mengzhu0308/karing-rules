@@ -3,6 +3,7 @@
   "rules": [
     {
       "domain_suffix": [
+		"api.kimi.com",
         "minimaxi.com",
         "bigmodel.cn",
         "deepseek.com",
@@ -34,7 +35,8 @@
         "youku.com",
         "ykimg.com",
         "v.qq.com",
-        "video.qq.com"
+        "video.qq.com",
+		"poll.exmail.qq.com"
       ]
     },
     {
@@ -42,21 +44,21 @@
         "mirrors.tuna.tsinghua.edu.cn",
         "mirrors.ustc.edu.cn",
         "mirrors.aliyun.com",
-	      "mirrors.huaweicloud.com"
+	    "mirrors.huaweicloud.com"
       ]
     },
     {
       "domain_suffix": [
         "feishu.cn",
         "dingtalk.com",
-	      "todesk.com"
+	    "todesk.com"
       ]
     },
     {
       "domain_suffix": [
         "spaces.ac.cn",
-	      "zhihu.com",
-	      "csdn.net"
+	    "zhihu.com",
+	    "csdn.net"
       ]
     }
   ]
